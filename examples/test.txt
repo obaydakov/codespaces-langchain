@@ -1,0 +1,2 @@
+asdasdasdsad
+git clone  https://obaydakovthndrapp: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@github.com/thndrapp/iac.git
